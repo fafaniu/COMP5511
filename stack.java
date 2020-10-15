@@ -1,3 +1,4 @@
+package AS2;
 
 public class stack {
 		Node header;
@@ -10,11 +11,7 @@ public class stack {
 			this.size=Size;
 		}
 		
-		public void setHeader(String first) {
-			header = new Node(first);
-			elementCount++;
-	
-		}
+		
 		
 		public boolean isFull() {
 			if (elementCount == size) {
@@ -32,7 +29,7 @@ public class stack {
 			
 		}
 		
-		public void push(String value) {
+		public void push(Object value) {
 			if (this.isFull()) {
 				throw new RuntimeException("Stack is full");
 				
@@ -40,7 +37,8 @@ public class stack {
 			else {
 				if (this.isEmpty()) {
 			
-					this.setHeader(value);
+					header= new Node(value);
+					elementCount++;
 				}
 				else {
 				header= new Node(value,header);
@@ -49,12 +47,12 @@ public class stack {
 		}
 		}
 		
-		public String  pop() {
+		public Object  pop() {
 			if (this.isEmpty()) {
 				throw new RuntimeException("Stack is empty");
 			}
 			else {
-				String out=header.getElement();
+				Object out=header.element;
 				header=header.next;
 				elementCount--;
 				return out;

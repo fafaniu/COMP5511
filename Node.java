@@ -1,21 +1,18 @@
+package AS2;
 
 public class Node {
 		
-		String element;
+		Object element;
 		Node next;
 		
-		public Node(String element){
+		public Node(Object element){
 			this(element,null);
 		}
 		
 		
-		public Node(String element,Node n){
+		public Node(Object element,Node n){
 			this.element=element;
 			next=n;
-		}
-		
-		public String getElement() {
-			return element;
 		}
 		
 	}
