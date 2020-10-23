@@ -19,6 +19,9 @@ public class BT_evaluation {
 		tree.root.right.right=new BTnode(2);
 		tree.root.left.right.left= new BTnode(5);
 		tree.root.left.right.right= new BTnode(1);
+		System.out.print("The tree is expressed as: ");
+		tree.traverseTree_express(tree.root);
+		System.out.print("\n");
 		tree.traverseTree_compute(tree.root, BT);
 		while (BT.isEmpty()==false) {
 			Object out=BT.pop();

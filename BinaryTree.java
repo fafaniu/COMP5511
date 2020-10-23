@@ -24,6 +24,26 @@ public void traverseTree_compute(BTnode node, stack BTtree) {
    
  }
 }
+public void traverseTree_express(BTnode node) {
+	
+	if (node != null) {
+		   if (node.left != null) {
+		     System.out.print('(');
+		   }
+		   
+		   
+		   
+		   traverseTree_express(node.left);
+		   System.out.print( node.key);
+		   traverseTree_express(node.right);
+		   
+		   
+		   
+		   if (node.right != null) {
+			     System.out.print(')');
+			   }
+		 }
+}
 
 
 }
