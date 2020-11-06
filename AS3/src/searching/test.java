@@ -2,10 +2,22 @@ package searching;
 
 public class test {
 	public static void main(String argv[]) {
-		String [] test= {"a,tom","b,bob","c,dog","d,cat","e,fish","f,bird","g,lily","i,kk","l,90"};
-		BST tree = new BST();
-		tree.establish(test);
-		System.out.println(tree.root.left.key);
-		System.out.println(tree.root.right.index);
+		String line = "AAAAL,53.57,-66.47,,";
+		int k=0,i=0;
+		StringBuffer sb =new StringBuffer();
+		while (k<3) {
+			
+			if (line.charAt(i)==',') {
+				
+					k++;
+			}	
+				
+			if (line.charAt(i)!= ','&& line.charAt(i) != '.' && line.charAt(i) !='-' && k>=1) {
+						sb.append(line.charAt(i));
+			
+			}
+			i++;
+		}
+		System.out.println(sb);
 	}
 }

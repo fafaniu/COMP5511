@@ -3,8 +3,9 @@ package searching;
 
 class BST {
 	private String[] input = null;
-	Node root = new Node();
+	TreeNode root = new TreeNode();
 	int size=0;
+//having ID in input string	
 	private String read(String line) {
 		int i=0;
 		StringBuffer sb =new StringBuffer();
@@ -16,7 +17,7 @@ class BST {
 	}
 	
 	public int searching(String k) {
-		Node temp = root;
+		TreeNode temp = root;
 		while(true) {
 			
 		
@@ -49,13 +50,13 @@ class BST {
 			}
 		}
 	}
-	private void insert(Node node,String k , int num) {
+	private void insert(TreeNode node,String k , int num) {
 		
 			
 			
 				if (k.compareTo(node.key)<0) {
 					if (node.left==null) {
-						node.left= new Node(k,num);
+						node.left= new TreeNode(k,num);
 						size++;
 						
 					}
@@ -65,7 +66,7 @@ class BST {
 				}
 				if (k.compareTo(node.key)>0) {
 					if (node.right==null) {
-						node.right= new Node(k,num);
+						node.right= new TreeNode(k,num);
 						size++;
 						
 					}

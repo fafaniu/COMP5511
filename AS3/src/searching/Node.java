@@ -2,18 +2,29 @@ package searching;
 
 
 
-class Node {
+class TreeNode {
 	String key;
 	int index;
-	Node left, right;
-	public Node(String item, int num) {
-	key = item;
-	index=num;
-	left = right = null;
+	TreeNode left, right;
+	public TreeNode(String item, int num) {
+		key = item;
+		index=num;
+		left = right = null;
 	}
-	public Node() {
+	public TreeNode() {
 		key=null;
 		index=0;
 		left = right = null;
+	}
+}
+
+class HashNode{
+	int  key;
+	int index;
+	HashNode next;
+	public HashNode(int item, int num) {
+		key=item;
+		index=num;
+		next =null;
 	}
 }

@@ -24,12 +24,18 @@ public class Operation {
             reader.close();
             int dataSize=data.size();
             String[] a= (String[]) data.toArray(new String[dataSize]);
+// retrieving with ID, by BST            
             BST tree= new BST();
             tree.establish(a);
             int out=tree.searching("DDC");
             int out1=tree.searching("EKOMY");
             tree.printout(out,a);
             tree.printout(out1, a);
+// retrieving with coordinate, by open hashing
+            Hashing coordinate = new Hashing();
+            coordinate.establish(a);
+            int[] result= coordinate.searching("46.85,-55.80");
+            coordinate.printout(result, a);
             //writer.close();
         } catch (FileNotFoundException ex) {
             System.out.println("Not finding file!");
