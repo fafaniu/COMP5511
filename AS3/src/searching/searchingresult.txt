@@ -1,0 +1,5 @@
+No record
+Retrieving with the CGNDB ID, find records:
+EKOMY,46.08,-74.13,Sainte-Marguerite-du-Lac-Masson; Les Pays-d'en-Haut,Quebec,Lac Saint-Louis
+Retrieving with coordinates, find records:
+HATZS,50.98,-102.48,"15,22-23-4-W2",Saskatchewan,Crescent Lake

@@ -5,7 +5,29 @@ import java.util.ArrayList;
 class Hashing {
 //M = 10000	
 	private HashNode[] table = new HashNode[10000];
-//having coordinate without '.' and '-'
+	private HashNode[] table1= new HashNode[10000];
+	private int keyFunction1(String line) {
+		int k=0,i=0;
+		StringBuffer sb =new StringBuffer();
+		while (k<4) {
+			
+			if (line.charAt(i)==',') {
+				
+					k++;
+			}	
+				
+			if (line.charAt(i)!= ',' && k>=3) {
+						sb.append(line.charAt(i));
+			
+			}
+			i++;
+		}
+		String out = sb.toString();
+		int key=out.hashCode()%10000;
+		return key;
+		
+	}
+//having coordinate without '.' and '-'	
 	private int keyFunction(String line) {
 		int k=0,i=0;
 		StringBuffer sb =new StringBuffer();
@@ -40,7 +62,7 @@ class Hashing {
 		}
 	}
 	
-	public void establish(String[] k) {
+	public void establish_coordinate(String[] k) {
 		int hashkey=-1;
 		for (int i=0;i<k.length;i++) {
 // h(key)= (coordinate without '.' and '-' /100)% 10000
@@ -51,6 +73,20 @@ class Hashing {
 			else {
 				
 				findempty(table[hashkey], keyFunction(k[i]) , i);
+			}
+		}
+	}
+	public void establish_location(String[] k) {
+		int hashkey=-1;
+		for (int i=0;i<k.length;i++) {
+
+			hashkey = keyFunction1(k[i]);
+			if (table1[hashkey]==null) {
+				table1[hashkey]= new HashNode(keyFunction1(k[i]), i);
+			}
+			else {
+				
+				findempty(table1[hashkey], keyFunction1(k[i]) , i);
 			}
 		}
 	}
@@ -82,14 +118,19 @@ class Hashing {
 		return result;
 		
 	}
-	public void printout(int[] index, String[] input ) {
+	public String printout(int[] index, String[] input ) {
+		String result="Retrieving with coordinates, find records:";
 		if (index.length==0) {
-			System.out.println("No record");
+			result="No record";
+			return result;
 		}
 		else {
+			
 			for (int i=0; i<index.length;i++) {
-				System.out.println(input[index[i]]);
+				result=result+"\n"+input[index[i]];
+				
 			}
+			return result;
 		}
 	}
 }

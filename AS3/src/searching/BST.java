@@ -109,12 +109,15 @@ class BST {
 		}
 		
 	}
-	public void printout(int out, String[] a) {
+	public String printout(int out, String[] a) {
+		String result;
 		if (out==-1) {
-        	System.out.println("No record");
+        	result="No record\n";
+        	return result;
         }
         else {
-        	System.out.println(a[out]);
+        	result="Retrieving with the CGNDB ID, find records:\n"+a[out]+"\n";
+        	return result;
         }
 	}
 	
