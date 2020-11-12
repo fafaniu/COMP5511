@@ -6,6 +6,13 @@ class Hashing {
 //M = 10000	
 	private HashNode[] table = new HashNode[10000];
 	private HashNode[] table1= new HashNode[10000];
+	private int hashlocation(String k) {
+		int key=0;
+		for (int j=0; j<k.length()-1;j++) {
+			key=key+(int) k.charAt(j)*(int) Math.pow(31,k.length()-j-1);
+		}
+		return key;
+	}
 	private int keyFunction1(String line) {
 		int k=0,i=0;
 		StringBuffer sb =new StringBuffer();
@@ -23,8 +30,8 @@ class Hashing {
 			i++;
 		}
 		String out = sb.toString();
-		int key=out.hashCode()%10000;
-		return key;
+	
+		return hashlocation(out);
 		
 	}
 //having coordinate without '.' and '-'	
@@ -79,19 +86,24 @@ class Hashing {
 	public void establish_location(String[] k) {
 		int hashkey=-1;
 		for (int i=0;i<k.length;i++) {
-
-			hashkey = keyFunction1(k[i]);
-			if (table1[hashkey]==null) {
-				table1[hashkey]= new HashNode(keyFunction1(k[i]), i);
+			if (keyFunction1(k[i])==0) {
+				continue;
 			}
-			else {
+			else{
+				hashkey = Math.abs(keyFunction1(k[i]))%10000;
+			
+				if (table1[hashkey]==null) {
+					table1[hashkey]= new HashNode(keyFunction1(k[i]), i);
+				}
+				else {
 				
-				findempty(table1[hashkey], keyFunction1(k[i]) , i);
+					findempty(table1[hashkey], keyFunction1(k[i]) , i);
+				}
 			}
 		}
 	}
 //searching every record in a certain chain	
-	public int[] searching(String k) {
+	public int[] searching_coordinate (String k) {
 		
 		StringBuffer sb =new StringBuffer();
 		for (int i=0; i< k.length();i++) {
@@ -118,16 +130,52 @@ class Hashing {
 		return result;
 		
 	}
-	public String printout(int[] index, String[] input ) {
-		String result="Retrieving with coordinates, find records:";
+	
+	public int[] searching_location (String k) {
+		int hashkey=Math.abs(hashlocation(k))%10000;
+		ArrayList<Integer> index =new ArrayList<>();
+		if (table1[hashkey]!=null) {
+			HashNode temp =table1[hashkey];
+			while (temp.next != null) {
+				if (temp.key == hashlocation(k) ) {
+					index.add(temp.index);
+				}
+				temp=temp.next;
+			}
+			
+		}
+		int[] result = new int[index.size()];
+		
+		for(int i =0; i< index.size(); i++) {
+			result[i]=index.get(i);
+		}
+		return result;
+	}
+	public String printout_coordinate(int[] index, String[] input ) {
+		String result="\nRetrieving with coordinates, find records:";
 		if (index.length==0) {
-			result="No record";
+			result=result+"\nNo record\n";
 			return result;
 		}
 		else {
 			
 			for (int i=0; i<index.length;i++) {
-				result=result+"\n"+input[index[i]];
+				result=result+"\n"+input[index[i]]+"\n";
+				
+			}
+			return result;
+		}
+	}
+	public String printout_location(int[] index, String[] input ) {
+		String result="\nRetrieving with location, find records:";
+		if (index.length==0) {
+			result=result+"\nNo record\n";
+			return result;
+		}
+		else {
+			
+			for (int i=0; i<index.length;i++) {
+				result=result+"\n"+input[index[i]]+"\n";
 				
 			}
 			return result;

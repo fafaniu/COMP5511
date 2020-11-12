@@ -22,7 +22,7 @@ class Inverted_index {
 			if (k.charAt(i)==',') {
 				j++;
 			}
-			if (j>=5) {
+			if (j>=4) {
 				if (k.charAt(i)!=',') {
 					sb.append(k.charAt(i));
 				}
@@ -34,19 +34,19 @@ class Inverted_index {
 		for (int i=0; i<k.length;i++) {
 			String line=k[i];
 			String name=readname(line);
-			if ( name.contains(" aux")) {
+			if ( name.contains(" aux ")) {
 				aux.freq++;
 				aux.record.add(i);
 			}
-			if ( name.contains("des")) {
+			if ( name.contains(" des ")) {
 				des.freq++;
 				des.record.add(i);
 			}
-			if ( name.contains("du")) {
+			if ( name.contains(" du ")) {
 				du.freq++;
 				du.record.add(i);
 			}
-			if ( name.contains("of")) {
+			if ( name.contains(" of ")) {
 				of.freq++;
 				of.record.add(i);
 			}
@@ -54,7 +54,7 @@ class Inverted_index {
 				la.freq++;
 				la.record.add(i);
 			}
-			if ( name.contains(" sur")) {
+			if ( name.contains(" sur ")) {
 				sur.freq++;
 				sur.record.add(i);
 			}

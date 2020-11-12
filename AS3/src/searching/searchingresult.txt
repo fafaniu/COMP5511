@@ -1,5 +1,26 @@
-No record
 Retrieving with the CGNDB ID, find records:
-EKOMY,46.08,-74.13,Sainte-Marguerite-du-Lac-Masson; Les Pays-d'en-Haut,Quebec,Lac Saint-Louis
+EKOMY,46.08,-74.13,Sainte-Marguerite-du-Lac-Masson; Les Pays-d'en-Haut,Lac Saint-Louis
+
 Retrieving with coordinates, find records:
-HATZS,50.98,-102.48,"15,22-23-4-W2",Saskatchewan,Crescent Lake
+EJWIK,46.86,-71.10,Sainte-Pétronille; L'Île-d'Orléans,Roche Maranda
+
+EODWF,46.86,-71.10,Saint-Laurent-de-l'Île-d'Orléans; L'Île-d'Orléans,Trait-Carré
+
+Retrieving with location, find records:
+EGDAV,46.39,-75.97,Maniwaki; La Vallée-de-la-Gatineau,Rivière Désert
+
+EHDEQ,46.37,-75.98,Maniwaki; La Vallée-de-la-Gatineau,Maniwaki
+
+EIRUF,46.38,-75.97,Maniwaki; La Vallée-de-la-Gatineau,Montagne des Pères
+
+ELCHM,46.37,-75.98,Maniwaki; La Vallée-de-la-Gatineau,Gabriel-Langevin
+
+ELCHN,46.38,-75.96,Maniwaki; La Vallée-de-la-Gatineau,Comeauville
+
+ELCHO,46.39,-75.99,Maniwaki; La Vallée-de-la-Gatineau,Christ-Roi
+
+EMADV,46.37,-75.98,Maniwaki; La Vallée-de-la-Gatineau,Maniwaki
+
+EMCGJ,46.38,-75.98,Maniwaki; La Vallée-de-la-Gatineau,Saint-Patrick
+
+EMCGK,46.38,-75.98,Maniwaki; La Vallée-de-la-Gatineau,Le Christ-Roi
