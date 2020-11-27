@@ -1,0 +1,169 @@
+
+What is at coorditate 56.79,-61.22
+Output:
+
+Geographic ID: AAAAG
+Geographic Name: Akulaitualuk Island
+
+What is at coorditate 49.79,-55.83
+Output:
+
+Geographic ID: AAABE
+Geographic Name: Alexander Rock
+
+Geographic ID: AAJFM
+Geographic Name: Gull Rock
+
+Find details of CBLRZ
+Output:
+
+Geographic Name: Cours d'eau Beaulieu
+latitude: 47.44
+longitude: -69.75
+
+Find all: Thompson Lake
+Output:
+
+Geographic ID: FCJCI
+latitude: 49.53
+longitude: -94.80
+
+Geographic ID: FCJCH
+latitude: 47.78
+longitude: -84.38
+
+Geographic ID: CBLRW
+latitude: 44.91
+longitude: -63.88
+
+Geographic ID: FCVXF
+latitude: 48.39
+longitude: -92.28
+
+Geographic ID: FCVXN
+latitude: 45.11
+longitude: -79.59
+
+Geographic ID: GBBRV
+latitude: 49.00
+longitude: -99.84
+
+Geographic ID: HANQI
+latitude: 59.47
+longitude: -108.78
+
+Geographic ID: FCVXI
+latitude: 43.95
+longitude: -79.69
+
+Geographic ID: JBCEE
+latitude: 50.15
+longitude: -124.86
+
+Geographic ID: LAXXZ
+latitude: 65.98
+longitude: -118.00
+
+Geographic ID: HAPSA
+latitude: 55.98
+longitude: -105.42
+
+Geographic ID: HANQH
+latitude: 56.88
+longitude: -102.78
+
+Geographic ID: FCVXO
+latitude: 46.01
+longitude: -77.35
+
+Geographic ID: LAXYB
+latitude: 62.62
+longitude: -113.50
+
+Geographic ID: IAMTL
+latitude: 53.40
+longitude: -117.56
+
+Geographic ID: JBCEF
+latitude: 53.27
+longitude: -121.34
+
+Geographic ID: HAQSW
+latitude: 56.42
+longitude: -107.60
+
+Geographic ID: FCVXG
+latitude: 43.92
+longitude: -79.48
+
+Geographic ID: IAMTJ
+latitude: 52.47
+longitude: -111.43
+
+Geographic ID: GBBRW
+latitude: 54.77
+longitude: -101.57
+
+Geographic ID: FCVXR
+latitude: 47.71
+longitude: -80.92
+
+Geographic ID: HAYIU
+latitude: 59.33
+longitude: -103.76
+
+Geographic ID: AAYQJ
+latitude: 54.75
+longitude: -63.71
+
+Geographic ID: HAYOJ
+latitude: 58.32
+longitude: -106.62
+
+Geographic ID: HAYOK
+latitude: 58.62
+longitude: -107.07
+
+Geographic ID: FCVXU
+latitude: 49.21
+longitude: -85.60
+
+Geographic ID: FCVXP
+latitude: 46.14
+longitude: -78.78
+
+Geographic ID: FCVXK
+latitude: 44.70
+longitude: -76.94
+
+Geographic ID: GBBRX
+latitude: 55.73
+longitude: -97.83
+
+Geographic ID: CBLRU
+latitude: 44.77
+longitude: -63.89
+
+Geographic ID: CBLRV
+latitude: 44.97
+longitude: -63.69
+
+Geographic ID: HANQG
+latitude: 49.82
+longitude: -102.37
+
+Geographic ID: HATGD
+latitude: 57.02
+longitude: -104.07
+
+Geographic ID: CBLRT
+latitude: 44.77
+longitude: -63.29
+
+Geographic ID: FCVXH
+latitude: 48.88
+longitude: -88.58
+
+Geographic ID: JBCEG
+latitude: 54.26
+longitude: -123.86
