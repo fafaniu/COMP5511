@@ -21,149 +21,275 @@ Geographic Name: Cours d'eau Beaulieu
 latitude: 47.44
 longitude: -69.75
 
-Find all: Thompson Lake
+Find all: Albert
 Output:
-
-Geographic ID: FCJCI
-latitude: 49.53
-longitude: -94.80
-
-Geographic ID: FCJCH
-latitude: 47.78
-longitude: -84.38
-
-Geographic ID: CBLRW
-latitude: 44.91
-longitude: -63.88
-
-Geographic ID: FCVXF
-latitude: 48.39
-longitude: -92.28
-
-Geographic ID: FCVXN
-latitude: 45.11
-longitude: -79.59
-
-Geographic ID: GBBRV
-latitude: 49.00
-longitude: -99.84
-
-Geographic ID: HANQI
-latitude: 59.47
-longitude: -108.78
-
-Geographic ID: FCVXI
-latitude: 43.95
-longitude: -79.69
-
-Geographic ID: JBCEE
-latitude: 50.15
-longitude: -124.86
-
-Geographic ID: LAXXZ
-latitude: 65.98
-longitude: -118.00
-
-Geographic ID: HAPSA
-latitude: 55.98
-longitude: -105.42
-
-Geographic ID: HANQH
-latitude: 56.88
-longitude: -102.78
-
-Geographic ID: FCVXO
-latitude: 46.01
-longitude: -77.35
-
-Geographic ID: LAXYB
-latitude: 62.62
-longitude: -113.50
-
-Geographic ID: IAMTL
-latitude: 53.40
-longitude: -117.56
-
-Geographic ID: JBCEF
-latitude: 53.27
-longitude: -121.34
-
-Geographic ID: HAQSW
-latitude: 56.42
-longitude: -107.60
-
-Geographic ID: FCVXG
-latitude: 43.92
-longitude: -79.48
-
-Geographic ID: IAMTJ
-latitude: 52.47
-longitude: -111.43
-
-Geographic ID: GBBRW
-latitude: 54.77
-longitude: -101.57
-
-Geographic ID: FCVXR
-latitude: 47.71
-longitude: -80.92
-
-Geographic ID: HAYIU
-latitude: 59.33
-longitude: -103.76
-
-Geographic ID: AAYQJ
-latitude: 54.75
-longitude: -63.71
-
-Geographic ID: HAYOJ
-latitude: 58.32
-longitude: -106.62
-
-Geographic ID: HAYOK
-latitude: 58.62
-longitude: -107.07
-
-Geographic ID: FCVXU
-latitude: 49.21
-longitude: -85.60
-
-Geographic ID: FCVXP
-latitude: 46.14
-longitude: -78.78
-
-Geographic ID: FCVXK
-latitude: 44.70
-longitude: -76.94
-
-Geographic ID: GBBRX
-latitude: 55.73
-longitude: -97.83
-
-Geographic ID: CBLRU
-latitude: 44.77
-longitude: -63.89
-
-Geographic ID: CBLRV
-latitude: 44.97
-longitude: -63.69
-
-Geographic ID: HANQG
-latitude: 49.82
-longitude: -102.37
-
-Geographic ID: HATGD
-latitude: 57.02
-longitude: -104.07
-
-Geographic ID: CBLRT
-latitude: 44.77
-longitude: -63.29
-
-Geographic ID: FCVXH
-latitude: 48.88
-longitude: -88.58
-
-Geographic ID: JBCEG
-latitude: 54.26
-longitude: -123.86
+Index of the Searching word 76
+Geographic ID: [ACWRV, FACCO, DBBQW, GAAMO, HAVEM, EFHEZ, LAAVG, FACCS, GAAMP, CAAKH, CAAKI, DADCL, DADCN, GBJDW, JABKT, JABKU, JCWAW, FACCT, GBKCH, KAABV, KAABU, JABKV, JABKQ, ACIGJ, OAAPV, FACCU, JDJOA, JABKX, OAAPX, GBJYU, JABKZ, JABKY, JZAEE, JABLA, JABLB, FACCW, OAAPZ, FACCX, LAAVP, JABLC, JABLD, GAAMQ, FACDD, AAAAK, HAOXN, FACDB, FACDE, FACDH, HABKR, IAQGE, FACDI, FACCZ, FACDA, FACCY, AAAAL, FEPSM, FACDJ, GBLRB, EKJXF, DAAGV, GBLII, HAUXI, IAQGG, HAUXJ, JABLF, GAAMR, JARMN, JABLG, OAAQB, GBKTK, EKJME, EKVTE, EKJMV, ELWAE, OAAPU, OAAPW, JZAEF, HAWUO, EJDYN, EKAGW, EPLJO, FEPVE, OAIZF, EFHFG, EIZIE, EINTL, EKEME, EJTHO, EFHFM, EJEDY, EJMFC, EIUVZ, EKVTF, EPOTB, EFHFP, EJQCM, EJBVZ, EFHFS, EFHFR, EQDFL, EIUPF, EFHFF, ELDTE, EFHFQ, EPTSF, ENLVQ, EPEDG, EKSWJ, EFHFC, EFHFO, EJQRQ, EPQLJ, EFHFN, ENPGX, EINTK, EFHFE, EIYOG, EJBWA, EPNKK, EFHFI, ERJZT, EFHFJ, EINTJ, EIPGB, EJMFX, EFHFL, EFHFB, EJEVZ, EKHOZ, EJBWB, ACWXY, EMGML, EFHFT, EQKFH, FCEZX, AAAAM, JABLE, KAABW, FDILX, JAWLW, JABKW, IABDY, JAIFF, JBLVQ, JBEJL, HAXTD, EQJYA, GBLTX, EMSVY, FEMPL, AARNB, AARNC, CBESZ, FCIMO, HAPNV, OANDV, HAQRJ, HAXTC, HASZC, LATBY, HAWUN, HAIGC, LATCA, EFHFX, EFHFV, EFHFU, EFHFW, EHHPS, EFHGB, EFHGD, KAGDH, JCOOT, JBKTV, IAGHN, FIEXL, IAGHH, FAXTD, OARKS, EFHFA, EKJFR, EKHMG, EKHNE, EJULN]
+Geographic Name: [2nd Lieut. Albert E. Taylor Brook, Albert, Albert, Albert, Albert, Albert, Albert Bay, Albert Bay, Albert Beach, Albert Bridge, Albert Bridge Lake, Albert Brook, Albert Brook, Albert Brown Lake, Albert Canyon, Albert Canyon, Albert Canyon Hot Spring, Albert Channel, Albert Collins Lake, Albert Creek, Albert Creek, Albert Creek, Albert Creek, Albert Dwyers Pond, Albert Edward Bay, Albert Falls, Albert Flat 5, Albert Glacier, Albert Harbour, Albert Harrison Lake, Albert Head, Albert Head, Albert Head Battery Point Training Area, Albert Head Lagoon, Albert Icefield, Albert Island, Albert Island, Albert Islands, Albert Islands, Albert Islet, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake, Albert Lake Mesa Provincial Nature Reserve, Albert Lake Portage, Albert Makay Lake, Albert Mines, Albert Mines, Albert Murray Lake, Albert Park, Albert Park, Albert Park South, Albert Peak, Albert Point, Albert Point, Albert River, Albert Shoal, Albert Woods Lake, Branche Albert, Branche Albert, Branche Albert, Branche Albert, Cape Albert, Cape Albert Edward, Champ de manoeuvre Albert Head Battery Point, Champ de tir Prince Albert, Coulée à Albert, Cours d'eau Albert, Fosse Albert, J. Albert Bauer Provincial Park, King Albert Peak, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac Albert, Lac à Albert, Lac à Albert, Lacs Albert, Lieut. Albert S. Rose Memorial Walking Trail, Marche à Albert, Mont Albert, Montagne à Albert, Mount Albert, Mount Albert, Mount Albert, Mount Albert, Mount Albert Creek, Mount Albert Dease, Mount Albert Edward, Mount King Albert, Mount King Albert, Mount Prince Albert, North Albert Peak, Parc national du Canada de Prince Albert, Petit lac Albert, Plage Albert, Pointe Albert, Port Albert, Port Albert, Port Albert Peninsula, Prince Albert, Prince Albert, Prince Albert, Prince Albert Hills, Prince Albert Lake, Prince Albert National Park of Canada, Prince Albert No. 461, Prince Albert Peninsula, Prince Albert Range, Prince Albert Settlement, Prince Albert Sound, Ruisseau Albert, Ruisseau Albert, Ruisseau Albert, Ruisseau Albert, Ruisseau du Mont Albert, Sommet Albert Nord, Sommet Albert Sud, South Albert Creek, South Albert Creek, South Albert Creek, St. Albert, St. Albert Conservation Area, St. Albert Settlement, Val Albert, Victoria and Albert Mountains, Étang Albert, Étang à Albert, Étangs Albert, Étangs Albert, Île Albert]
+Latitude: [48.39, 44.32, 45.83, 49.44, 52.12, 48.30, 69.80, 49.43, 50.68, 46.02, 44.61, 46.31, 47.76, 55.18, 51.15, 51.13, 51.12, 45.32, 55.00, 61.56, 60.05, 51.14, 55.33, 49.68, 69.53, 50.38, 49.52, 51.04, 72.75, 54.65, 48.39, 48.39, 48.39, 48.40, 51.03, 49.43, 68.58, 48.07, 70.55, 52.30, 55.38, 58.72, 48.87, 52.97, 56.42, 48.29, 49.10, 50.00, 52.47, 53.17, 50.34, 48.92, 45.50, 48.52, 53.57, 49.09, 48.93, 58.81, 45.32, 45.88, 56.76, 50.41, 51.04, 50.40, 51.04, 53.06, 50.59, 50.53, 52.88, 59.24, 48.13, 48.75, 48.03, 48.61, 79.05, 83.12, 48.39, 53.24, 49.23, 47.40, 48.40, 45.41, 66.63, 47.04, 48.10, 49.23, 48.62, 46.45, 48.22, 46.94, 48.81, 48.66, 47.32, 48.50, 49.38, 47.01, 47.40, 58.20, 50.93, 47.44, 49.26, 46.95, 48.90, 50.71, 47.25, 46.89, 46.67, 48.79, 46.50, 49.01, 49.05, 48.65, 48.99, 48.22, 48.44, 46.54, 46.90, 47.79, 46.85, 47.26, 46.00, 47.97, 48.30, 47.72, 48.77, 48.09, 46.20, 47.22, 49.17, 47.78, 51.30, 45.79, 48.92, 47.33, 44.13, 53.55, 50.23, 63.82, 44.21, 57.74, 49.68, 50.71, 50.71, 50.61, 51.05, 53.96, 47.09, 50.68, 47.71, 43.88, 49.54, 49.55, 45.00, 44.09, 53.22, 68.50, 59.95, 53.96, 53.14, 72.50, 53.24, 53.17, 70.45, 49.24, 47.75, 47.23, 48.63, 48.95, 48.94, 48.90, 60.03, 60.00, 51.09, 53.64, 45.25, 53.64, 49.41, 80.79, 49.57, 48.20, 48.20, 48.19, 48.58]
+Longitude: [-53.66, -77.13, -64.92, -101.12, -106.64, -69.92, -122.15, -88.44, -96.51, -60.06, -63.89, -64.91, -68.18, -95.92, -117.83, -117.88, -117.85, -80.24, -93.69, -137.55, -128.91, -117.87, -125.35, -54.08, -102.42, -87.25, -121.42, -117.84, -77.45, -93.57, -123.48, -123.50, -123.49, -123.49, -117.75, -88.43, -97.88, -89.34, -116.75, -127.93, -125.35, -98.01, -87.52, -66.78, -104.75, -84.21, -88.97, -94.18, -109.55, -110.45, -87.60, -93.73, -77.59, -91.74, -66.47, -88.98, -93.72, -97.35, -71.91, -64.67, -97.63, -104.63, -114.00, -104.63, -117.85, -98.62, -117.91, -115.57, -80.50, -100.83, -69.06, -78.92, -69.25, -68.09, -74.40, -72.60, -123.49, -105.77, -65.59, -69.87, -64.52, -79.02, -62.18, -73.88, -73.41, -72.41, -69.89, -78.73, -69.85, -74.65, -71.25, -67.71, -73.41, -69.63, -68.13, -72.23, -73.10, -69.56, -63.18, -75.03, -72.35, -72.99, -70.31, -75.05, -72.70, -73.64, -72.91, -67.51, -73.83, -69.09, -71.49, -69.87, -76.03, -67.92, -72.95, -74.47, -74.02, -73.10, -76.73, -78.66, -73.98, -74.19, -70.36, -74.32, -70.56, -71.33, -73.73, -61.98, -64.94, -73.57, -56.72, -76.74, -66.20, -70.77, -79.31, -66.68, -123.88, -135.08, -79.32, -127.60, -125.43, -115.41, -115.42, -115.40, -117.88, -106.37, -73.20, -96.51, -78.17, -81.72, -54.53, -54.50, -65.06, -78.95, -105.71, -84.75, -102.63, -106.37, -105.59, -117.00, -105.77, -105.87, -115.00, -72.31, -68.49, -78.63, -65.08, -66.13, -66.17, -66.21, -129.28, -129.32, -117.80, -113.62, -75.13, -113.69, -82.40, -69.90, -62.85, -68.65, -71.18, -70.98, -78.73]
+Index of the Searching word 1118
+Geographic ID: [IAQFZ, IASMB, JABKR, IAQGA, JABKS, KAABS, FACCP, JBXLX, FACCQ, IATST, FACCR, OAAPS, IARWP, KAABT, IAQGC]
+Geographic Name: [Alberta, Alberta Avenue, Alberta Bay, Alberta Beach, Alberta Creek, Alberta Creek, Alberta Creek, Alberta Lake, Alberta Lake, Alberta Park Industrial, Alberta Rock, Cape Alberta, Little Alberta, Mount Alberta, Mount Alberta]
+Latitude: [54.99, 53.57, 49.47, 53.68, 49.46, 63.08, 48.88, 51.35, 48.86, 53.57, 45.65, 65.52, 52.27, 60.95, 52.29]
+Longitude: [-114.38, -113.48, -123.24, -114.35, -123.23, -138.31, -86.04, -121.64, -86.02, -113.60, -80.61, -74.20, -117.44, -140.85, -117.48]
+Index of the Searching word 1120
+Geographic ID: [DADCW, IAQGD]
+Geographic Name: [Albertine, Albertine Creek]
+Latitude: [47.30, 53.80]
+Longitude: [-68.40, -119.05]
+Index of the Searching word 1121
+Geographic ID: [BADOW, FDPFU, FACDK, BACTV, BADOX, BADOY, EQETG]
+Geographic Name: [Alberton, Alberton, Alberton, Alberton Creek, Alberton Harbour, Alberton South, Ponceau Alberton]
+Latitude: [46.81, 48.59, 43.19, 46.80, 46.80, 46.80, 45.04]
+Longitude: [-64.07, -93.52, -80.07, -64.07, -64.05, -64.08, -73.49]
+Index of the Searching word 1122
+Geographic ID: [JABLH, JAWLX, JDDAM, GAAMT, GAAMV, HABKT]
+Geographic Name: [Alberts Creek, Alberts Hump, Alberts Hump Creek, Alberts Lake, Alberts Lake, Alberts Lake]
+Latitude: [50.31, 57.48, 57.45, 49.87, 54.81, 54.90]
+Longitude: [-118.86, -127.43, -127.44, -95.32, -101.54, -109.48]
+Index of the Searching word 1124
+Geographic ID: [FACDN]
+Geographic Name: [Albertson Creek]
+Latitude: [48.71]
+Longitude: [-92.62]
+Index of the Searching word 1125
+Geographic ID: [EQLTH, EMANU, HABKU]
+Geographic Name: [Albertville, Albertville, Albertville]
+Latitude: [48.33, 48.32, 53.39]
+Longitude: [-67.36, -67.36, -105.54]
+Index of the Searching word 5037
+Geographic ID: [EAAIJ]
+Geographic Name: [Baie J.-Albert-Cloutier]
+Latitude: [46.05]
+Longitude: [-74.29]
+Index of the Searching word 5773
+Geographic ID: [EJSND]
+Geographic Name: [Baie d'Albert]
+Latitude: [45.86]
+Longitude: [-75.69]
+Index of the Searching word 6609
+Geographic ID: [ESLWE]
+Geographic Name: [Banc à Albert-Bernard]
+Latitude: [46.85]
+Longitude: [-70.27]
+Index of the Searching word 8826
+Geographic ID: [EQBBC]
+Geographic Name: [Belvédère Albert-Gascon]
+Latitude: [45.78]
+Longitude: [-74.01]
+Index of the Searching word 11250
+Geographic ID: [EKKZG]
+Geographic Name: [Branche Albert-Gagné]
+Latitude: [48.52]
+Longitude: [-67.76]
+Index of the Searching word 11258
+Geographic ID: [EKJMU]
+Geographic Name: [Branche Arthur-Albert]
+Latitude: [48.02]
+Longitude: [-69.25]
+Index of the Searching word 18625
+Geographic ID: [EKSVO, EFHFY]
+Geographic Name: [Cours d'eau Albert-Gendron, Ruisseau Albert-Gendron]
+Latitude: [48.62, 48.24]
+Longitude: [-67.78, -66.98]
+Index of the Searching word 18638
+Geographic ID: [ELVNI]
+Geographic Name: [Cours d'eau André-Albert]
+Latitude: [48.07]
+Longitude: [-65.23]
+Index of the Searching word 20388
+Geographic ID: [EIUVN, EPKQY, EJMRX, EMCZN, EQLSZ]
+Geographic Name: [Côte Saint-Albert, Parc-école Saint-Albert, Saint-Albert, Saint-Albert, Saint-Albert]
+Latitude: [46.61, 46.84, 46.00, 46.00, 46.00]
+Longitude: [-70.66, -71.24, -72.09, -72.09, -72.08]
+Index of the Searching word 30236
+Geographic ID: [ESEGS]
+Geographic Name: [Habitat floristique de la Serpentine-du-Mont-Albert]
+Latitude: [48.91]
+Longitude: [-66.20]
+Index of the Searching word 30238
+Geographic ID: [ESDTQ]
+Geographic Name: [Habitat floristique de la Tourbière-de-Mont-Albert]
+Latitude: [49.09]
+Longitude: [-65.53]
+Index of the Searching word 39496
+Geographic ID: [EKQZU]
+Geographic Name: [Lac Albert-Maltais]
+Latitude: [48.26]
+Longitude: [-65.48]
+Index of the Searching word 39497
+Geographic ID: [EFHGC]
+Geographic Name: [Lac Alberto]
+Latitude: [49.61]
+Longitude: [-70.19]
+Index of the Searching word 51103
+Geographic ID: [EHKEA, EGKTB, EHKEB, EJXGV]
+Geographic Name: [Lac Nicol-Albert, Le Frère de Nicol-Albert, Mont Nicol-Albert, Petit lac Nicol-Albert]
+Latitude: [48.81, 48.79, 48.82, 48.82]
+Longitude: [-66.72, -66.72, -66.77, -66.78]
+Index of the Searching word 63056
+Geographic ID: [ELBZX]
+Geographic Name: [Le Gîte-du-Mont-Albert]
+Latitude: [48.94]
+Longitude: [-66.12]
+Index of the Searching word 68949
+Geographic ID: [EFHGA]
+Geographic Name: [Mont Albert-Low]
+Latitude: [61.72]
+Longitude: [-72.22]
+Index of the Searching word 69220
+Geographic ID: [EHHPR, ELBTJ]
+Geographic Name: [Mont-Albert, Mont-Albert]
+Latitude: [49.13, 48.92]
+Longitude: [-66.47, -66.18]
+Index of the Searching word 69286
+Geographic ID: [EJRBB]
+Geographic Name: [Montagne d'Albert-Lambert]
+Latitude: [46.34]
+Longitude: [-73.29]
+Index of the Searching word 69735
+Geographic ID: [ELKCI]
+Geographic Name: [Moulin-à-Albert]
+Latitude: [47.45]
+Longitude: [-69.16]
+Index of the Searching word 75043
+Geographic ID: [EPGWM]
+Geographic Name: [Parc Albert-Einstein]
+Latitude: [45.36]
+Longitude: [-73.71]
+Index of the Searching word 75044
+Geographic ID: [ENBSZ]
+Geographic Name: [Parc Albert-Gaucher]
+Latitude: [46.35]
+Longitude: [-72.57]
+Index of the Searching word 75045
+Geographic ID: [EQWNU]
+Geographic Name: [Parc Albert-Lévesque]
+Latitude: [46.62]
+Longitude: [-75.92]
+Index of the Searching word 75046
+Geographic ID: [EQSDY]
+Geographic Name: [Parc Albert-Malouf]
+Latitude: [45.53]
+Longitude: [-73.67]
+Index of the Searching word 75047
+Geographic ID: [ENWJC]
+Geographic Name: [Parc Albert-Saint-Martin]
+Latitude: [45.50]
+Longitude: [-73.60]
+Index of the Searching word 75048
+Geographic ID: [ESHJN]
+Geographic Name: [Parc Albert-Schweitzer]
+Latitude: [45.53]
+Longitude: [-73.36]
+Index of the Searching word 75312
+Geographic ID: [ESACU]
+Geographic Name: [Parc François-Albert-Angers]
+Latitude: [45.50]
+Longitude: [-73.60]
+Index of the Searching word 76635
+Geographic ID: [ENCOF]
+Geographic Name: [Parc du Curé-Albert-Arnold]
+Latitude: [45.50]
+Longitude: [-73.60]
+Index of the Searching word 76748
+Geographic ID: [ESEPL]
+Geographic Name: [Parc industriel Albert-Landry]
+Latitude: [46.50]
+Longitude: [-72.72]
+Index of the Searching word 76749
+Geographic ID: [ESFDS]
+Geographic Name: [Parc industriel Albert-Thibeault]
+Latitude: [46.63]
+Longitude: [-72.70]
+Index of the Searching word 77046
+Geographic ID: [ESMUU]
+Geographic Name: [Passage Albert-Millaire]
+Latitude: [45.46]
+Longitude: [-73.60]
+Index of the Searching word 78694
+Geographic ID: [EKLKH]
+Geographic Name: [Plage-Albert-Tremblay]
+Latitude: [45.49]
+Longitude: [-76.01]
+Index of the Searching word 79706
+Geographic ID: [EQAKZ]
+Geographic Name: [Pont Albert-Chartier]
+Latitude: [46.27]
+Longitude: [-73.55]
+Index of the Searching word 79707
+Geographic ID: [EPJBB]
+Geographic Name: [Pont Albert-Mondou]
+Latitude: [45.54]
+Longitude: [-73.92]
+Index of the Searching word 79836
+Geographic ID: [ESKFU]
+Geographic Name: [Pont J.-Albert-Simard]
+Latitude: [46.16]
+Longitude: [-72.32]
+Index of the Searching word 80040
+Geographic ID: [ESACF]
+Geographic Name: [Pont de Monseigneur-Albert-Gravel]
+Latitude: [45.48]
+Longitude: [-71.94]
+Index of the Searching word 83047
+Geographic ID: [DAXFQ]
+Geographic Name: [Riverside-Albert]
+Latitude: [45.74]
+Longitude: [-64.74]
+Index of the Searching word 84330
+Geographic ID: [DADCO]
+Geographic Name: [Ruisseau Albert-Gallant]
+Latitude: [46.28]
+Longitude: [-64.58]
+Index of the Searching word 84331
+Geographic ID: [ERAFL]
+Geographic Name: [Ruisseau Albert-Grondin]
+Latitude: [45.17]
+Longitude: [-71.42]
+Index of the Searching word 84332
+Geographic ID: [EFHFZ]
+Geographic Name: [Ruisseau Albert-Leroux]
+Latitude: [45.61]
+Longitude: [-74.21]
+Index of the Searching word 84333
+Geographic ID: [EFHGE]
+Geographic Name: [Ruisseau Albert-Tourigny]
+Latitude: [45.78]
+Longitude: [-73.10]
+Index of the Searching word 84713
+Geographic ID: [DBBVD]
+Geographic Name: [Ruisseau Donat-Albert]
+Latitude: [47.56]
+Longitude: [-67.35]
+Index of the Searching word 86132
+Geographic ID: [EJXAU]
+Geographic Name: [Ruisseau chez Albert-Labillois]
+Latitude: [48.09]
+Longitude: [-66.27]
+Index of the Searching word 86283
+Geographic ID: [EIVZH]
+Geographic Name: [Ruisseau à Albert-Ferguson]
+Latitude: [48.47]
+Longitude: [-64.33]
+Index of the Searching word 86907
+Geographic ID: [EMHCJ, ELZTT, EMDRB, EMEKB]
+Geographic Name: [Saint-Albert-le-Grand, Saint-Albert-le-Grand, Saint-Albert-le-Grand, Saint-Albert-le-Grand]
+Latitude: [45.55, 48.83, 48.41, 48.50]
+Longitude: [-73.56, -64.49, -71.25, -79.23]
+Index of the Searching word 91471
+Geographic ID: [FEBWN]
+Geographic Name: [St-Albert]
+Latitude: [45.26]
+Longitude: [-75.12]
+Index of the Searching word 99756
+Geographic ID: [ESEDJ]
+Geographic Name: [Zone industrielle Albert-Gigaire]
+Latitude: [46.55]
+Longitude: [-72.75]
+Index of the Searching word 100014
+Geographic ID: [EPYHF]
+Geographic Name: [Île Albert-Naud]
+Latitude: [48.61]
+Longitude: [-71.78]
